@@ -1,22 +1,24 @@
-[
+{
+  "notes": [
     {
-        "title":"Call bank on Friday",
-        "text":"Bank stuff"
+      "title": "Call bank on Friday",
+      "text": "Bank stuff"
     },
     {
-        "title":"Reschedule delivery",
-        "text":"Delivery stuff"
+      "title": "Reschedule delivery",
+      "text": "Delivery stuff"
     },
     {
-        "title":"Finish payroll",
-        "text":"Payroll stuff"
+      "title": "Finish payroll",
+      "text": "Payroll stuff"
     },
     {
-        "title":"Check in with clients",
-        "text":"Client stuff"
+      "title": "Check in with clients",
+      "text": "Client stuff"
     },
     {
-        "title":"Client lunch on Thursday",
-        "text":"Lunch stuff"
+      "title": "Client lunch on Thursday",
+      "text": "Lunch stuff"
     }
-]
+  ]
+}
